@@ -1,0 +1,96 @@
+html #header .header-logo.custom-header-logo:before {
+    background-color: #71ba82 !important;
+}
+
+html .svg-fill-color-primary {
+    fill: #71ba82 !important;
+}
+
+div.title_background {
+    background-color: #71ba82;
+    height: 70px;
+}
+
+h1.title {
+    font-size: 42px;
+    color: white !important;
+    padding: 15px;
+}
+
+/*--------------------------------------------------------------
+# About
+--------------------------------------------------------------*/
+.about h3 {
+    font-weight: 700;
+    font-size: 34px;
+    color: #4e4039;
+}
+
+.about h4 {
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 5px;
+    color: #7a6960;
+}
+
+.about i {
+    font-size: 48px;
+    margin-top: 15px;
+    color: #71ba82;
+}
+
+.about p {
+    font-size: 15px;
+    color: #5a6570;
+}
+
+@media (max-width: 991px) {
+    .about .about-img img {
+        max-width: 70%;
+    }
+}
+
+@media (max-width: 767px) {
+    .about .about-img img {
+        max-width: 90%;
+    }
+}
+
+/**********************************
+ # sidebar
+ */
+ul.sidebar {
+    list-style: none;
+}
+
+ul.sidebar li {
+    color: black !important;
+    padding: 25px;
+    border-bottom: 1px solid lightgrey;
+}
+
+ul.sidebar li:hover {
+    background-color: #71ba82;
+}
+
+ul.sidebar li a:hover {
+    text-decoration: none;
+}
+
+ul.goals {
+    list-style: none;
+}
+
+ul.goals li {
+    padding: 25px 0px !important;
+}
+
+.about_icon h1 {
+    background-color: #71ba82;
+    padding: 25px 0px;
+    width: 100px;
+    text-align: center;
+    height: 100px;
+    border-radius: 25px;
+    margin-right: 40%;
+}
