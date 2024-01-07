@@ -2,10 +2,10 @@
 ### an organized official website that constitutes a basic reference for all students of student clubs in the Deanship of Student Affairs at the University of Tabuk (all rights reserved)
 
 ## Idea: 
-### A site for the Deanship of Student Affairs for the purpose of displaying everything related to student clubs, departments and departments
+ #### A site for the Deanship of Student Affairs for the purpose of displaying everything related to student clubs, departments and departments
 
 ## Objective: 
-### To cancel randomness and continuous careful monitoring of the work of student clubs, through this, to raise competitiveness among clubs and achieve the highest level of interaction ... To be constantly informed of events and activities through a website available around the clock 
+#### To cancel randomness and continuous careful monitoring of the work of student clubs, through this, to raise competitiveness among clubs and achieve the highest level of interaction ... To be constantly informed of events and activities through a website available around the clock 
 
 ## Services:
 1. Browse the entire clubs and view and schedule of events throughout the year
@@ -46,7 +46,7 @@ from all the opportunities and services provided
 
 <img src="https://github.com/maysoon-1/organized-official-website/assets/107502613/e80574fe-ab8f-4c91-b4c2-d06c6e9b8ed0" width="500">
 
-### form 5 (click to watch the demo)
+### (click to watch the demo)
 
 [<img src="https://github.com/maysoon-1/organized-official-website/assets/107502613/6084ff8d-25b9-4566-a21b-516cab97fb79" width="500">](https://youtu.be/KrNT1mu14Xs)
 
