@@ -29,12 +29,12 @@ from all the opportunities and services provided
 6- Presentation of the workers of previous clubs 
 
 ## Features:
-1- Generating students' interest in benefiting from services through the club site
-2- Receiving the proposals and working to develop them
-3- It helps to save time and effort for students
-4- Manage to achieve the sar for clubs
-5- Knowing the hours in the register
-6- The most effective clubs offe
+1- Generating students' interest in benefiting from services through the club site.
+2- Receiving the proposals and working to develop them.
+3- It helps to save time and effort for students.
+4- Manage to achieve the sar for clubs.
+5- Knowing the hours in the register.
+6- The most effective clubs offe.
 
 ## Simple and convenient interface 
  
